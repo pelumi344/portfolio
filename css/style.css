@@ -1,0 +1,232 @@
+
+  
+  header {
+    background-color: #fff;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+   
+    box-shadow: 0 1.5px 2px 0px grey;
+  }
+  
+  .logo {
+    /* color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold; */
+    width: 60px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    /* padding: 0; */
+    display: flex;
+    margin-right: 150px;
+  }
+  
+  nav li {
+    margin-right: 100px;
+  }
+  
+  nav li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  nav li a:hover {
+    color: yellow;
+  }
+  
+  .for{
+    margin-right:35px ;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration:none;
+    color:black; 
+    text-decoration:none;
+    font-size: medium;
+
+  }
+.for :hover{
+    color: yellow;
+}
+.for1{
+    height: 30px;
+    width:200px;margin-top:15px; 
+    margin-right: 55px;
+    border-radius: 10px;
+    color:red;
+}
+.for1:hover{
+    color: yellow;
+}
+main{
+    background-image: url("https://d33wubrfki0l68.cloudfront.net/daac8858fd4a0ccea44f59dfd079c3c16c263f33/c157c/assets/svg/common-bg.svg");
+    height: 500px;
+    width: 100%;
+    padding-top: 90px;
+
+}
+
+.main1{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    /* text-indent: 100px; */
+    /* background-image: url("https://d33wubrfki0l68.cloudfront.net/daac8858fd4a0ccea44f59dfd079c3c16c263f33/c157c/assets/svg/common-bg.svg");
+    height: 600px;
+    width: 100%; */
+
+}
+.projects{
+    background-color:  #facf0f;
+    color: black;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+    width: 250px;
+    height: 70px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    
+}
+.projects:hover{
+    background-color: white;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+
+
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-youtube {
+    background: #3B5998;
+    color: white;
+}
+.fa-instagram {
+    background: red;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .mouse{
+    width: 25px;
+    height: 40px;
+    border: 2px solid #333;
+    border-radius: 60px;
+    position: relative;
+    overflow: hidden;
+    margin-left: 700px;
+    margin-top: 100px;
+  }
+  .about{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: large;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .about1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    text-align: center;
+  }
+  .gtk{
+    display: flex;
+    margin-top: 150px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(252, 250, 250);
+  }
+  .gtk1{
+    width: 50%;
+    
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    line-height: 45px;
+  }
+  .gtk2{
+    width: 50%;
+    margin-left: 150px;
+  }
+  .skills{
+    
+    height: 50px;
+    display: flex;
+    margin-top: 30px;
+    
+  }
+  .skills1{
+    width: 100px;
+    margin-left: 20px;
+    background-color:  666px;;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 3px;
+    border-style: none;
+    font-size: large;
+  }
+  .dopefolio_img{
+    width: 500px;
+    align-items: center;
+  }
+  .dopefolio{
+    display: flex;
+    margin-top: 120px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    line-height: 40px;
+  }
+  .contact_form{
+    box-shadow: rgba(100,100,111,.2) 0 7px 29px 0;
+    background: #fff;
+    padding: 4rem;
+    margin-top: 6rem;
+    /* max-width: 80rem; */
+    text-align: center;
+    width: 60%;
+    border-radius: 5px;
+    margin: 5rem auto 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
+.contact__form-input {
+    color: #333;
+    padding: 2rem;
+    width: 50%;
+    border: none;
+    font-size: 1.1rem;
+    letter-spacing: 0;
+    background: #f0f0f0;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer1{
+    display: flex;
+    margin-top: 100px;
+    color: white;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    height: 250px;
+}
+footer{
+    height: 250px;
+}
+
+  
